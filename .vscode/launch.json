@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MinecraftUUIDGenerate",
+            "request": "launch",
+            "mainClass": "MinecraftUUIDGenerate",
+            "projectName": "MinecraftUUIDGenerate_95027b30"
+        },
+        {
+            "type": "java",
+            "name": "MinecraftUUIDGenerate",
+            "request": "launch",
+            "mainClass": "MinecraftUUIDGenerate",
+            "projectName": "我的世界uuid生成_bcc61e2"
+        },
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open jsDemo17.html",
+            "file": "d:\\tts9\\workspace\\webBask\\js\\jsDemo17.html"
+        }
+    ]
+}
